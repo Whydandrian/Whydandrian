@@ -11,8 +11,7 @@ Here is my portfolio using GitHub pages.
 
 ---
 
-Contact me
-Email : <whydandrian@gmail.com>
+Contact me : <whydandrian@gmail.com>
 <!--
 **Whydandrian/Whydandrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
