@@ -3,7 +3,7 @@
 
 ##GRADUATED form State Polytechnic of Jember
 
-Skills:
+Skills 🧗 :
 1. CodeIgniter v3
 2. Laravel 7
 3. Database Relational MySQL
@@ -16,7 +16,7 @@ Skills:
 10. Microsoft Word, Excel, Access, Project, Visio, Power Point
 
 
-Here is my portfolio using GitHub pages.
+Here is my portfolio using GitHub pages :bookmark_tabs: .
 [My Simple Portfolio](http://whydandrian.github.io/)
 
 ---
