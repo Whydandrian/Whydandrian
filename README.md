@@ -1,7 +1,9 @@
-# Hi I'm Wahyudi Andrian 👋 👨‍💻
-**##Road to Junior Backend Developer**
+# Hi I'm Wahyudi Andrian 👋 
+## Road to Junior Backend Developer 👨‍💻
 
-##GRADUATED form State Polytechnic of Jember
+### GRADUATED form State Polytechnic of Jember
+
+
 
 Skills 🧗 :
 1. CodeIgniter v3
@@ -13,15 +15,19 @@ Skills 🧗 :
 7. Postman Basic
 8. Adobe Photoshop Basic+
 9. Adobe Illustrator Basic+
-10. Microsoft Word, Excel, Access, Project, Visio, Power Point
 
 
-Here is my portfolio using GitHub pages :bookmark_tabs: .
-[My Simple Portfolio](http://whydandrian.github.io/)
+[Here is](http://whydandrian.github.io/) my portfolio using GitHub pages :bookmark_tabs: .
+
 
 ---
 
 Contact me : <whydandrian@gmail.com>
+
+---
+
+:house:
+from Klakah, Lumajang~
 <!--
 **Whydandrian/Whydandrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
