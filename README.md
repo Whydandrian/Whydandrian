@@ -7,14 +7,13 @@
 
 Skills 🧗 :
 1. CodeIgniter v3
-2. Laravel 7
-3. Database Relational MySQL
-4. Fundamental Python & R
+2. Laravel
+3. Database MySQL
+4. SEO(Keyword Research, Link Building, Competitor research)
 5. Git/GitHub
 6. Web API
-7. Postman Basic
-8. Adobe Photoshop Basic+
-9. Adobe Illustrator Basic+
+7. Postman
+8. Wordpress Elementor
 
 
 [Here is](http://whydandrian.github.io/) my portfolio using GitHub pages :bookmark_tabs: .
@@ -31,11 +30,9 @@ from Klakah, Lumajang~
 <!--
 **Whydandrian/Whydandrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m fresh graduate from State Polytechnic of Jember 2020
-- 🌱 I’m currently learning ...
-- 👯 I’m collaborated on repo kelompok-satu
+- 🔭 Graduated from State Polytechnic of Jember 2020
 - ⚡ I'm individualism and introvert
 
-Here is my simple portfolio using GitHub pages
-[My Simple Portfolio](http://whydandrian.github.io/)
+Here is my portfolio
+[My Simple Portfolio](http://whydandrian.web.id/)
 -->
