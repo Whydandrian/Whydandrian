@@ -1,6 +1,5 @@
 # Hi I'm Wahyudi Andrian 👋 :libra:
-## Web Developer at Bias Education :house_with_garden:
-#### Road to Junior Backend Developer 👨‍💻
+#### Road to Backend Engineer 👨‍💻
 ##### GRADUATED form State Polytechnic of Jember
 
 
@@ -27,7 +26,7 @@
 4. Postman :soon:
 
 
-My [Web Profile](http://whydandrian.web.id/) :bookmark_tabs: .
+My [Web Profile](http://whydandrian.my.id/) :bookmark_tabs: .
 
 ---
 
