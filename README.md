@@ -10,6 +10,7 @@
 3. Database Design and Implementation (MySQL) :heavy_check_mark:
 4. Keyword Research :heavy_check_mark:
 5. Web Development(WordPress) :heavy_check_mark:
+6. Simple REST API :heavy_check_mark:
 
 ### Familiar with :star:
 1. CodeIgniter V3 :heavy_check_mark:
