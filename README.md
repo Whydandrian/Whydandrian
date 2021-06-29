@@ -1,5 +1,5 @@
 # Hi I'm Wahyudi Andrian 👋 :libra:
-#### Road to Backend Engineer 👨‍💻
+#### Road to Backend Engineer / Software Engineer
 ##### GRADUATED form State Polytechnic of Jember
 
 
