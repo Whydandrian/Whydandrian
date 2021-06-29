@@ -9,25 +9,28 @@
 2. UI Design :on:
 3. Database Design and Implementation (MySQL) :heavy_check_mark:
 4. Keyword Research :heavy_check_mark:
-5. Web Development(WordPress) :heavy_check_mark:
-6. Simple REST API :heavy_check_mark:
-7. Go Language :on: progress
+5. Web Development(WordPress Elementor) :heavy_check_mark:
+7. Go Language Basic :on: progress
+8. VueJs Basic
 
 ### Familiar with :star:
 1. CodeIgniter V3 :heavy_check_mark:
-2. Laravel(MVC) :heavy_check_mark:
-3. Figma :heavy_check_mark:
-4. SEO Optimization(research keyword & competitor, error link repair, page speed optimization, etc.) :heavy_check_mark:
-5. MySQL/MariaDB :heavy_check_mark:
-6. Elementor Wordpress :heavy_check_mark:
+2. Laravel :heavy_check_mark:
+3. Simple REST API :heavy_check_mark:
+4. Figma :heavy_check_mark:
+5. SEO Optimization(research keyword & competitor, error link repair, page speed optimization, etc.) :heavy_check_mark:
+6. MySQL/MariaDB :heavy_check_mark:
+7. Elementor WordPress :heavy_check_mark:
+8. Version Control Git (clone, remote, pull, push, branch, merge) :heavy_check_mark:
+9. MVC and OOP
 
 ### Tools :wrench:
 1. VS Code :heavy_check_mark:
-2. Microsoft (Excel, Access, Project, Visio) :heavy_check_mark:
-3. Git Bash(clone, remote, pull, push, stash, stage, branch, merge) :heavy_check_mark:
-4. Sourcetree :heavy_check_mark:
-5. Ubersuggest, Google Keywords Planner, Google Analytics, Google Trends, Google Search Console :heavy_check_mark:
-
+2. Figma :heavy_check_mark:
+3. Microsoft (Excel, Access, Project, Visio) :heavy_check_mark:
+4. Git Bash :heavy_check_mark:
+5. Sourcetree :heavy_check_mark:
+6. Ubersuggest, Google Keywords Planner, Google Analytics, Google Trends, Google Search Console :heavy_check_mark:
 
 
 My [Web Profile](http://whydandrian.my.id/) :bookmark_tabs: .
