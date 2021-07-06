@@ -35,9 +35,9 @@
 
 My [Web Profile](http://whydandrian.my.id/) :bookmark_tabs: .
 
----
 
-[![Whydandrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whydandrian)](https://github.com/Whydandrian/github-readme-stats)
+![Whydandrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whydandrian&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whydandrian&layout=compact)](https://github.com/Whydandrian/github-readme-stats)
+
 
 Contact me : <whydandrian@gmail.com>
 
